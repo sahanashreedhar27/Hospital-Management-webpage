@@ -8,5 +8,6 @@ Description:
 3. Optimised the backend database using triggers and stored procedures.
 
 Files attached:
-1.Project code
-2.Project Report
+
+1. Project code
+2. Project Report
